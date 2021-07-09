@@ -1,0 +1,147 @@
+@media (max-width: 480px) {
+
+    .header_menu, .first_screen_right, .sixth_screen_right, .footer_list_line, .speak_to_us, .text_line_end {
+        display: none;
+    }
+
+    .wrapper {
+        padding: 0 20px;
+    }
+
+    .button_talk_to_us {
+        top: 350px;    
+    }
+
+    .button_talk_to_us h4 {
+        text-align: center;
+    }
+
+    .first_screen_grid {
+        height: 455px;
+    }
+    
+    .first_screen_grid h1 {
+        font-size: 50px;
+        line-height: 60px;
+        text-align: center;
+    }
+
+    .mobile_button {
+        display: flex;
+    }
+
+    .first_screen_left {
+        margin-top: 52px;
+    }
+
+    .second_screen_left  {
+        display: none;
+    }
+
+    .second_screen_right {
+        margin-top: 70px;
+    }
+
+    .second_screen_right h2, .why_switch h2, .title_forth_screen h2, .sixth_screen_left h2, .blue_box_left h2 {
+        font-size: 45px;
+        line-height: 48px;
+        text-align: center;
+    }
+
+    .second_screen_right p, .first_screen_left p, .sixth_screen_left p,  .blue_box_left p {
+        font-size: 18px;
+       text-align: center;
+    }
+
+    .third_section_grid {
+        margin-top: 100px;
+    }
+
+    .forht_screen_grid {
+        margin-left: 20px;
+        margin-right: 20px;
+    }    
+
+    .content_line1, .content_line2 {
+        display: block;
+        padding-left: 40px;
+    }
+
+    .discover {
+        padding-left: 40px;
+    }
+
+    .title_forth_screen h2 { 
+        margin-bottom: 40px;
+        padding-top: 58px;
+    }
+
+    .fifth_screen {
+        margin-top: 50px;
+    }
+
+    .join_companies {
+        display: block;
+    }
+
+    .join {
+        width: 400px;
+       }
+
+    .join h3 {
+        font-size: 35px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .companies img {
+        width: 460px;
+    }
+
+    .sixth_screen_left p {
+        width: 440px;
+        margin-top: 40px;
+    }
+
+
+    .view_hub {
+        display: flex;
+        justify-content: center;
+    }
+
+    .seven_screen {
+        display: flex;
+        justify-content: center;
+        min-height: 200px;
+        margin-top: 10px;
+    }
+
+    .blue_box {
+        display: block;
+        margin: 20px 0;
+        width: 440px;
+    }
+
+    .blue_box_left h2 {
+        padding-top: 10px;
+        padding-left: 0;
+    }
+
+    .blue_box_left p {
+        margin-top: 10px;
+        padding-left: 0;
+        padding-bottom: 20px;
+    }
+
+    .blue_box_right {
+        display: flex;
+        justify-content: center;
+        padding: 20px;
+        min-height: 200px;
+    }    
+
+.footer-screen {
+    padding-bottom: 30px;
+}
+
+}
